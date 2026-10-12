@@ -1,0 +1,1 @@
+print ("hi my frirnds im poemer ")
